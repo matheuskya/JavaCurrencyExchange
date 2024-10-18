@@ -19,7 +19,7 @@
 
  1. Clone the repository (or download the ZIP file and extract it):
     ```
-    git clone https://github.com/yourusername/JavaCurrencyExchange.git
+    git clone https://github.com/matheuskya/JavaCurrencyExchange.git
     ```
  2. Navigate to the project directory:
     ```
@@ -69,7 +69,7 @@
 
  ## Contact
 
- If you want to contact me, you can reach me at `your_email@example.com`.
+ If you want to contact me, you can reach me at `kenzoyamashitaasano@gmail.com`.
 
  ## License
 

@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String API_KEY = "0aa11028e9fcc1e89d5462e9"; // Replace with your API key
+    private static final String API_KEY = "YOUR_API_KEY"; // Replace with your API key
     private static final String API_BASE_URL =
         "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
